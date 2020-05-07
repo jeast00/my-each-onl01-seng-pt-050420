@@ -11,6 +11,6 @@ def my_each(collection) # put argument(s) here
 
     collection
   else
-    puts "No block given"
+    "No block given"
   end
 end
